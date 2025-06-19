@@ -35,7 +35,7 @@ This project presents a comprehensive fraud risk analysis of credit card transac
 ## 🖼️ Sample Dashboard Views
 
 *(Add your screenshots in a folder called `/images` and reference here)*  
-![Dashboard Sample](images/dashboard_sample.png)
+![Dashboard Sample]( https://github.com/flemingbap14/Credit_Card_Fraud_Analysis/blob/main/Credit%20card%20fraud%20.png)
 
 ## 🧪 How to Use
 
